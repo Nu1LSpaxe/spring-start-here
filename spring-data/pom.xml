@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.project.spring-start-here</groupId>
-	<artifactId>data</artifactId>
+	<artifactId>spring-data</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>data</name>
 	<description>Spring Start Here</description>
@@ -44,7 +44,7 @@
 			<scope>runtime</scope>
 		</dependency>
 
-	</dependencies>
+    </dependencies>
 
 	<build>
 		<plugins>
